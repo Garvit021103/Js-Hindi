@@ -22,5 +22,6 @@ let state = null
 // symbol -> to find the uniqueness
 
 // object
+//
 
 console.log(typeof "Garvit")
