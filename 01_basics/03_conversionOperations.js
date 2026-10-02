@@ -15,7 +15,7 @@ console.log( valueInNumber)
 // "33abc" -> Nan
 // true -> 1 ; false -> 0
 
-let isLoggedIN = "hitesh"
+let isLoggedIN = "garvit"
 
 let booleanIsLoggedIn = Boolean(isLoggedIN)
 console.log(booleanIsLoggedIn)
@@ -57,6 +57,10 @@ console.log(+true)
 let gameCounter = 100
 ++gameCounter
 console.log(gameCounter);
+gameCounter++
+console.log(gameCounter)
+
+
 
 
 
